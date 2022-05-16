@@ -1,5 +1,5 @@
 {
-  "name": "my-cd",
+  "name": "my-ci-cd",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
